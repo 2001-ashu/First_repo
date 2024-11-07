@@ -1,2 +1,2 @@
 # First_repo
-Author = Ashutosh
+Author = Ashutosh Zende
